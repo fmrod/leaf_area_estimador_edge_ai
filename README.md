@@ -65,13 +65,15 @@ desarrollar la investigación de forma sistematizada, iterativa y
 consistente. En la Figura 1 se detallan las fase, objetivos y resultados
 de la metodología aplicada en la investigación.
 
-![](media/image1.png){width="6.1375in" height="2.975in"}
+<img src='https://github.com/fmrod/leaf_area_estimador_edge_ai/blob/main/fig2_metodologia.png'>
 
 **Figura 1** Metodología aplicada durante la investigación
 
+<img src='https://github.com/fmrod/leaf_area_estimador_edge_ai/blob/main/fig3_hojas_albahaca.jpg'>
 **Figura 2** Muestra del conjunto de datos de imágenes de hojas de
 albahaca
 
+<img src='https://github.com/fmrod/leaf_area_estimador_edge_ai/blob/main/fig4_calibracion.png'>
 **Figura 3** Calibración de la medición usando Kiamid Leafl Area
 Calculador
 
@@ -90,6 +92,7 @@ usando Google Colab, Edge Impulse y Arduino IDE durante la
 implementación de la solución para estimar el área foliar de la
 albahaca.
 
+<img src='https://github.com/fmrod/leaf_area_estimador_edge_ai/blob/main/fig8_flujo_solucion.png'>
 **Figura 4**. Flujo del proceso de solución usando Google Colab, Edge
 Impulse y Arduino IDE
 
@@ -102,6 +105,7 @@ foliar estimada (AE), expresada en ${cm}^{2}$. En la Figura 5 se muestra
 el diagram de la arquitectura de la solución basada en tres capas de
 redes neuronales.
 
+<img src='https://github.com/fmrod/leaf_area_estimador_edge_ai/blob/main/fig9_arquitectura_modelo.png'>
 **Figura 5**. Arquitectura basado en redes neuronales para predecir el
 área foliar real
 
@@ -135,6 +139,8 @@ pruebas son Error Absoluto Medio (MAE): 0.066, Error Cuadrático Medio
 (MSE): 0.009, Root Mean Squared Error (RMSE): 0.095 y el coeficiente de
 determinación (R²): 0.9997.
 
+
+<img src='https://github.com/fmrod/leaf_area_estimador_edge_ai/blob/main/fig10_resultado.png'>
 **Figura 6**. Relación del área real con el área estimada
 \[${cm}^{2}\rbrack$
 
