@@ -1,0 +1,22 @@
+name,width_px,area_px,perimeter_px,actual_area,predicted_area
+leaf_dataset_test_tflite.s10, 541, 423540, 3074, 7.00, 0
+leaf_dataset_test_tflite.s15, 571, 427576, 3069, 7.07, 0
+leaf_dataset_test_tflite.s16, 488, 283797, 2475, 4.69, 0
+leaf_dataset_test_tflite.s24, 502, 344422, 2861, 5.70, 0
+leaf_dataset_test_tflite.s34, 493, 389636, 3231, 6.44, 0
+leaf_dataset_test_tflite.s37, 784, 823562, 4245, 13.62, 0
+leaf_dataset_test_tflite.s40, 935, 1186020, 5111, 19.61, 0
+leaf_dataset_test_tflite.s5 , 720, 705308, 3986, 11.66, 0
+leaf_dataset_test_tflite.s52, 960, 1186830, 5086, 19.63, 0
+leaf_dataset_test_tflite.s53, 494, 326252, 3150, 5.40, 0
+leaf_dataset_test_tflite.s54, 821, 785266, 4089, 12.99, 0
+leaf_dataset_test_tflite.s68, 421, 200644, 2035, 3.32, 0
+leaf_dataset_test_tflite.s70, 592, 430481, 3087, 7.12, 0
+leaf_dataset_test_tflite.s77, 845, 952154, 4783, 15.75, 0
+leaf_dataset_test_tflite.s79, 782, 859682, 4499, 14.22, 0
+leaf_dataset_test_tflite.s80, 730, 546106, 3385, 9.03, 0
+leaf_dataset_test_tflite.s86, 776, 721086, 4129, 11.93, 0
+leaf_dataset_test_tflite.s88, 405, 287054, 2704, 4.75, 0
+leaf_dataset_test_tflite.s92, 557, 457772, 3219, 7.57, 0
+leaf_dataset_test_tflite.s95, 704, 634413, 3675, 10.49, 0
+leaf_dataset_test_tflite.s99, 1174, 1680415, 5934, 27.79, 0
